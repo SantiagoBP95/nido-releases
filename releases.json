@@ -1,33 +1,33 @@
 {
   "canales": {
     "stable": {
-      "archivo_sha256": "7b7e3ff1fd368698c71cc568355e75312cbadca723192d815e502b61478757cb",
-      "archivo_url": "https://github.com/SantiagoBP95/nido-releases/releases/download/v3/nidobox-fba040e7383907db13f153e8b2141a0b560b9a70.tar",
-      "commit": "fba040e7383907db13f153e8b2141a0b560b9a70",
+      "archivo_sha256": "7d49051797535c915f4406ee9cea6eebb5fe509d61f9b44d73b7a2abbaac568a",
+      "archivo_url": "https://github.com/SantiagoBP95/nido-releases/releases/download/v4/nidobox-6751865e5179c4c7a0701ea5ec2e1c6478d1c797.tar",
+      "commit": "6751865e5179c4c7a0701ea5ec2e1c6478d1c797",
       "fecha": "2026-11-03",
       "imagenes": {
         "portal": {
           "amd64": {
-            "capas": 243445248,
-            "config_digest": "sha256:582bd7c0f04a0bee14beea3f37dab1d90a7c317de53fb3abb4333bbc9cb8a117",
-            "manifest_digest": "sha256:152d02eaed309c7bb1b07681b67349b711caaf149afcf7d830a09b7fc2532761",
-            "sha256": "9c2adae0a3fb24b01dba1419dec312702d1bb00340c2bf7b63cd4fde3b49ad5b",
+            "capas": 243445760,
+            "config_digest": "sha256:282ff64e4714edc14bf0fbdc33b2218c60f96f1a7a834b652beb692edca402e5",
+            "manifest_digest": "sha256:1ef153b06f6ad12b11d5f23f2ab63e7fd556c172d68c3407f621ff3a7fe04eb6",
+            "sha256": "fe56e0b85dced2bc74e94a246d5c6566e38f5411039734efa178dd165102b9d9",
             "tag": "nido/portal:0.3.7",
-            "tamano": 80186257,
-            "url": "https://github.com/SantiagoBP95/nido-releases/releases/download/v3/nido-portal-fba040e7383907db13f153e8b2141a0b560b9a70-amd64.tar.gz"
+            "tamano": 80187575,
+            "url": "https://github.com/SantiagoBP95/nido-releases/releases/download/v4/nido-portal-6751865e5179c4c7a0701ea5ec2e1c6478d1c797-amd64.tar.gz"
           },
           "arm64": {
-            "capas": 269918720,
-            "config_digest": "sha256:cf886c0b302146e17af72a5bb6638fa700c9e3e01a30bc998a55bc5de337da8a",
-            "manifest_digest": "sha256:3feafe32550622f463ea5405f2607600109ce249583d8752671e2e3fd49f1039",
-            "sha256": "aaf372998e9b3dd6568f44f21a14d70d567f5721eeb42d7f8b5813872fac3562",
+            "capas": 269919232,
+            "config_digest": "sha256:427e294a4ba26fc0f3eff312bb8fd9d00577c054c0b94be061b0f3ac82ee4f02",
+            "manifest_digest": "sha256:98e2e6e657a3e8a61f952058f94cf33ec3aaee63b599db84c4ae02dd89b61da1",
+            "sha256": "946ee8fe9cf5a6930936ec546cff361a08ad865f8b2b0fe6989f330cd477dcd8",
             "tag": "nido/portal:0.3.7",
-            "tamano": 79396964,
-            "url": "https://github.com/SantiagoBP95/nido-releases/releases/download/v3/nido-portal-fba040e7383907db13f153e8b2141a0b560b9a70-arm64.tar.gz"
+            "tamano": 79391820,
+            "url": "https://github.com/SantiagoBP95/nido-releases/releases/download/v4/nido-portal-6751865e5179c4c7a0701ea5ec2e1c6478d1c797-arm64.tar.gz"
           }
         }
       },
-      "secuencia": 3
+      "secuencia": 4
     }
   },
   "formato": 1
